@@ -1,0 +1,125 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by dglzrec.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_DGLZREC_DIALOG              102
+#define IDP_SOCKETS_INIT_FAILED         103
+#define IDR_MAINFRAME                   128
+#define IDB_BITMAP1                     219
+#define IDB_BITMAP2                     220
+#define IDB_BITMAP3                     221
+#define IDB_BITMAP4                     222
+#define IDB_BITMAP5                     223
+#define IDB_BITMAP6                     224
+#define IDB_BITMAP7                     225
+#define IDB_BITMAP8                     226
+#define IDB_BITMAP9                     227
+#define IDB_BITMAP10                    228
+#define IDB_BITMAP11                    229
+#define IDB_BITMAP12                    230
+#define IDB_BITMAP13                    231
+#define IDB_BITMAP14                    232
+#define IDB_BITMAP15                    233
+#define IDB_BITMAP16                    234
+#define IDB_BITMAP17                    235
+#define IDB_BITMAP18                    236
+#define IDB_BITMAP19                    237
+#define IDB_BITMAP20                    238
+#define IDB_BITMAP21                    239
+#define IDB_BITMAP22                    240
+#define IDB_BITMAP23                    241
+#define IDB_BITMAP24                    242
+#define IDB_BITMAP25                    243
+#define IDB_BITMAP26                    244
+#define IDB_BITMAP27                    245
+#define IDB_BITMAP28                    246
+#define IDB_BITMAP29                    247
+#define IDB_BITMAP30                    248
+#define IDB_BITMAP31                    249
+#define IDB_BITMAP32                    250
+#define IDB_BITMAP33                    251
+#define IDB_BITMAP34                    252
+#define IDB_BITMAP35                    253
+#define IDB_BITMAP36                    254
+#define IDB_BITMAP37                    255
+#define IDB_BITMAP38                    256
+#define IDB_BITMAP39                    257
+#define IDB_BITMAP40                    258
+#define IDB_BITMAP41                    259
+#define IDB_BITMAP42                    260
+#define IDB_BITMAP43                    261
+#define IDB_BITMAP44                    262
+#define IDB_BITMAP45                    263
+#define IDB_BITMAP46                    264
+#define IDB_BITMAP47                    265
+#define IDB_BITMAP48                    266
+#define IDB_BITMAP49                    267
+#define IDB_BITMAP50                    268
+#define IDB_BITMAP51                    269
+#define IDB_BITMAP52                    270
+#define IDB_BITMAP53                    271
+#define IDB_BITMAP54                    272
+#define IDR_DAT1                        274
+#define ID_RESTART                      1000
+#define IDC_REMAINED                    1002
+#define IDC_EDIT4                       1003
+#define IDC_EDIT5                       1004
+#define IDC_EDIT2                       1005
+#define IDC_EDIT1                       1006
+#define IDC_EDIT3                       1007
+#define IDC_EDIT0                       1008
+#define IDC_EDITREST                    1009
+#define IDC_START                       1012
+#define IDC_STOP                        1013
+#define IDC_ESCAPE                      1014
+#define IDC_PAUSE                       1016
+#define IDC_PIC0                        1019
+#define IDC_PK                          1020
+#define IDC_PIC1                        1021
+#define IDC_PIC2                        1022
+#define IDC_PIC3                        1023
+#define IDC_PIC4                        1024
+#define IDC_PIC5                        1025
+#define IDC_CAP                         1026
+#define IDC_TEST                        1029
+#define IDC_CreateParseFile             1030
+#define IDC_CAPJG                       1031
+#define IDC_CAPJS                       1032
+#define IDC_PIC6                        1038
+#define IDC_PIC7                        1039
+#define IDC_PIC8                        1040
+#define IDC_PIC9                        1041
+#define IDC_PIC10                       1042
+#define IDC_PIC11                       1043
+#define IDC_PIC12                       1044
+#define IDC_PIC13                       1045
+#define IDC_PIC14                       1046
+#define IDC_PIC15                       1047
+#define IDC_PIC16                       1048
+#define IDC_PIC17                       1049
+#define IDC_PIC18                       1050
+#define IDC_PIC19                       1051
+#define IDC_PIC20                       1052
+#define IDC_PIC21                       1053
+#define IDC_PIC22                       1054
+#define IDC_PIC23                       1055
+#define IDC_PIC24                       1056
+#define IDC_PIC25                       1057
+#define IDC_PIC26                       1058
+#define IDC_PIC27                       1059
+#define IDC_PIC28                       1060
+#define IDC_PIC29                       1061
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        275
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1033
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
